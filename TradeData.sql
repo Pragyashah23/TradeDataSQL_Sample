@@ -1,7 +1,7 @@
 CREATE DATABASE test;
 USE test;
 CREATE TABLE stocks(TradeDate CHAR(10),
-					SPY double, 
+		    SPY double, 
                     GLD double,
                     AMZN double,
                     GOOG double,
