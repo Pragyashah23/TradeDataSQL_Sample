@@ -1,5 +1,5 @@
 # TradeDataSQL_Sample
-To upload the data:
+Uploading Data on SQL Workbench:
 Download data.csv file 
 Open Mysql workbench,
 Create Tables (follow Tradedata.sql),
